@@ -1,1 +1,4 @@
+---
+layout: page
+---
 # Keeping Lists

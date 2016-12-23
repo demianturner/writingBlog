@@ -1,1 +1,4 @@
+---
+layout: page
+---
 # Reviewing Text

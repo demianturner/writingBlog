@@ -32,4 +32,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  
+# Outputting
+permalink:  /blog/:year/:month/:day/:title.html
  

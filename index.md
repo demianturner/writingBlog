@@ -2,6 +2,7 @@
 layout: page
 ---
 # Tools and Techniques for Overcoming Writing Challenges
+
 ## Introduction
 This is a project about dealing with text.  I like to think of text in its raw form, as an [encoding of language][1], a representation of our knowledge, memories and experience frozen in a concrete form, a snapshot in time.  We have a seemingly unlimited capacity for experience and it’s great that a technique exists that allows us to capture and explore it.  Our accumulated experience is vast, but more vast still is our capacity to investigate and distill key moments and insights.  Writing is one tool available to facilitate such practice.
 

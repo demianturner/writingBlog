@@ -26,6 +26,8 @@ One theme has emerged over the years, I feel I am often standing up against a hu
 
 Probably the most surprising outcome of the increased energy invested in personal writing over the last 5 years is to find an improvement in my critical thinking.
 
+---- 
+
 ![][image-1]
 
 

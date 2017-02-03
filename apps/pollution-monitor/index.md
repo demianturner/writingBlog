@@ -1,5 +1,6 @@
 ---
 layout: app
+title: Pollution Monitor for the Mac
 ---
 # Download Pollution Monitor on the Mac AppStore
 [![][image-1]][1] [![][image-2]][2]

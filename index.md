@@ -3,7 +3,7 @@ layout: homepage
 ---
 # Recent Apps
 
-Here are some apps we’ve developed recently: 
+Here are some recent apps: 
 
 | **Crypto Calculator**  | **Pollution Monitor** |
 | ------------- | ------------- |

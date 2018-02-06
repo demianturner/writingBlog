@@ -1,5 +1,5 @@
 ---
-layout: app-crypto-calc
+layout: crypto-calc
 title: Crypto Calculator for the Mac
 ---
 # Download Crypto Calculator on the Mac AppStore

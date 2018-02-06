@@ -40,7 +40,7 @@ The developer wishes to express thanks for the availability of the following lib
 ## Contact
 If you have any enquiries about the app please [get in touch][7].
 
-[1]:	https://itunes.apple.com/gb/app/pollution-monitor/id1197195842?mt=12
+[1]:	https://itunes.apple.com/ca/app/crypto-calculator/id1345035239?mt=12
 [2]:	https://github.com/cjdowner/cryptocurrency-icons
 [3]:	https://www.cryptocompare.com/api/
 [4]:	https://github.com/phranck/CCNStatusItem

@@ -18,7 +18,7 @@ layout: homepage
 |![][image-4]| ![][image-5] | ![][image-6] | 
 | Productivity | Productivity | Shopping | 
 | Platform: iOS | Platform: iOS  | Platform: iOS  |
-| Release date: June 27, 2010 | Release date: Mar 6, 2009  | Release date: May 26, 2009 |
+| Release date: Dec 20, 2009 | Release date: Mar 6, 2009  | Release date: May 26, 2009 |
 | _Retired_ | _Retired_ | _Retired_ |
 
 

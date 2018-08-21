@@ -1,4 +1,15 @@
-# Crypto Calculator Changelog
+# Crypto Tools Changelog
+
+## 1.0.9 (Jun 27, 2018)
+- Added currency percentage change for last 24 hours in the Ticker view
+
+## 1.0.8 (May 23, 2018)
+- Fixed bug where Ticker view would be blank after network failure
+- popover resizes according to number of currencies displayed
+
+## 1.0.7 (May 16, 2018)
+- Updated to tabbed UI
+- Added second tab: crypto ticker
 
 ## 1.0.6 (Mar 7, 2018)
 - Customise currencies in Preferences

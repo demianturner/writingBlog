@@ -7,7 +7,7 @@ title: Kindo - the Family Social Network
 
 [![][image-1]][1]
 
-## CTO, London. 2007 - 2008
+## Demian Turner: CTO, London. 2007 - 2008
 
 Kindo was a social genealogy startup with users in 150+ countries built by an international team.  Our app was translated into 17 languages.
  

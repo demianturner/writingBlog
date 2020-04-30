@@ -1,5 +1,14 @@
 # Crypto Tools Changelog
 
+## 1.0.11 (Apr 29, 2020)
+- Improved readability of fonts
+- Updated crypto images and added 134 new cryptos
+- Fixed popover resizing for Ticker tab
+
+## 1.0.10 (Jan 9, 2019)
+- Updated popover so it's never greater than screen height
+- Satisfied new API key requirement from CryptoCompare
+
 ## 1.0.9 (Jun 27, 2018)
 - Added currency percentage change for last 24 hours in the Ticker view
 

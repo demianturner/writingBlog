@@ -11,7 +11,7 @@ Crypto Tools Pro is a handy menu bar app to convert between fiat currencies and 
 - Live conversion between practically all crypto and fiat currencies
 - Live ticker feed to keep track of your cryptos
 - Percentage change in last 24 hrs
-- Includes 138 international (fiat) currencies
+- Includes 98 international (fiat) currencies
 - 376 crypto currencies
 - Customise your shortlist up to 125 currencies
 - One click away in your menu bar

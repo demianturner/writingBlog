@@ -1,5 +1,22 @@
 # Crypto Tools Changelog
 
+## 1.0.12 (May 8, 2020)
+ Improvements
+ 
+- Ticker cryptos can be displayed in any of the app's 98 fiats (configure in Preferences)
+- Ticker and calculator now refresh immediately when Preferences updated
+- Calculator and combobox elements alpha ordered
+- Fixed UI glitches with truncated fields
+
+**IMPORTANT**: In Preferences > General select 'restore defaults' to ensure unsuported currencies are cleared
+
+Bugfixes 
+
+- Fixed case when some fiat conversions were incorrect 
+- Fixed case where API maximum currency count was exceeded
+- Removed invalid cryptos and fiats to sync up with API updates
+- Combobox correctly updates when new currencies added/removed
+
 ## 1.0.11 (Apr 29, 2020)
 - Improved readability of fonts
 - Updated crypto images and added 134 new cryptos

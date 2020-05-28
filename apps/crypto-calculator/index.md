@@ -3,14 +3,14 @@ layout: crypto-calc
 title: Crypto Tools for the Mac
 ---
 # Download Crypto Tools on the Mac AppStore
-Crypto Tools Pro is a handy menu bar app to convert between fiat currencies and cryptos.  Also features a live ticker feed.  Get the latest exchange data live in your menu bar.
+Crypto Tools Pro is a handy menu bar app to convert between fiat currencies and cryptos.  Also features real-time price and news feeds.  Get the latest exchange data live in your menu bar.
+
 
 ## Features - Pro Version
 [![][image-1]][1]
 
-- Live conversion between practically all crypto and fiat currencies
-- Live ticker feed to keep track of your cryptos
-- Percentage change in last 24 hrs
+- Live conversion between hundreds of crypto and fiat currencies
+- Real-time price and news feeds
 - Includes 98 international (fiat) currencies
 - 376 crypto currencies
 - Customise your shortlist up to 125 currencies
@@ -41,6 +41,10 @@ The developer wishes to express thanks for the availability of the following lib
 [https://www.cryptocompare.com/api/][4]
 
 ### Github
+- [https://github.com/aguilarpgc/timelapse][15]
+- [https://github.com/kean/Nuke][14]
+- [https://github.com/demianturner/DTOnboarding][13]
+- [https://github.com/sindresorhus/LaunchAtLogin][12]
 - [https://github.com/phranck/CCNStatusItem][5]
 - [https://github.com/nlap/NLSpinner][6]
 - [https://github.com/ashleymills/Reachability.swift][7]
@@ -64,6 +68,10 @@ If you have any enquiries or requests please [get in touch][11].
 [9]:	https://github.com/DaveWoodCom/XCGLogger
 [10]:	Crypto%20Tools%20Changelog
 [11]:	mailto:support@seagullsystems.com
+[12]:  https://github.com/sindresorhus/LaunchAtLogin
+[13]:  https://github.com/demianturner/DTOnboarding
+[14]:  https://github.com/kean/Nuke
+[15]:  https://github.com/aguilarpgc/timelapse
 
 [image-1]:	images/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg
 [image-2]:	images/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg

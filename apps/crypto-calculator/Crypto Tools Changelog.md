@@ -1,25 +1,42 @@
-# Crypto Tools Changelog
+# Crypto Calculator Changelog
+
+## 1.1.1 (May 26, 2020)
+Increased minimum required macOS version to 10.13
+
+Improvements
+- Added new tab for crypto news feed
+
+Bugfixes 
+- Fixed bug which sometimes prevented onboarding from displaying
+
+
+## 1.1.0 (May 16, 2020)
+ Improvements
+- New onboarding tour of app's features
+- Keep app running with 'launch at login' option
+- Improved support for Dark Mode
 
 ## 1.0.12 (May 8, 2020)
  Improvements
- 
 - Ticker cryptos can be displayed in any of the app's 98 fiats (configure in Preferences)
 - Ticker and calculator now refresh immediately when Preferences updated
 - Calculator and combobox elements alpha ordered
 - Fixed UI glitches with truncated fields
 
-**IMPORTANT**: In Preferences > General select 'restore defaults' to ensure unsuported currencies are cleared
+IMPORTANT: In Preferences > General select 'restore defaults' to ensure unsuported currencies are cleared
 
 Bugfixes 
-
 - Fixed case when some fiat conversions were incorrect 
 - Fixed case where API maximum currency count was exceeded
 - Removed invalid cryptos and fiats to sync up with API updates
 - Combobox correctly updates when new currencies added/removed
 
 ## 1.0.11 (Apr 29, 2020)
+ Improvements
 - Improved readability of fonts
 - Updated crypto images and added 134 new cryptos
+
+Bugfixes
 - Fixed popover resizing for Ticker tab
 
 ## 1.0.10 (Jan 9, 2019)
@@ -31,7 +48,7 @@ Bugfixes
 
 ## 1.0.8 (May 23, 2018)
 - Fixed bug where Ticker view would be blank after network failure
-- popover resizes according to number of currencies displayed
+- Popover resizes according to number of currencies displayed
 
 ## 1.0.7 (May 16, 2018)
 - Updated to tabbed UI
@@ -45,8 +62,7 @@ Bugfixes
 
 ## 1.0.5 (Feb 15, 2018)
 - Added Preferences panel
-- Added global keyboard shortcut to open CryptoCalculator
--\> default shortcut: [ctrl][option][cmd] c
+- Added global keyboard shortcut to open CryptoCalculator (default shortcut: [ctrl][option][cmd] c)
 - CryptoCalculator popover now opens on launch
 - Fixed: alert sound no longer fires on every key press
 - Fixed: removed ugly backgrounds when editing tableview currency cells

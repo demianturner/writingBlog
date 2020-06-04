@@ -8,26 +8,19 @@ title: Pollution Monitor for the Mac
 ## About the App
 ![][image-3]
 
-Available in English and Mandarin, the first release of **Pollution Monitor** features live pollution readings for the top 10 cities in China:
+**Pollution Monitor** is a Mac app that provides live pollution readings for almost 4000 cities around the globe, right in your status bar.
 
- - Beijing
- - Shanghai
- - Guangzhou
- - Shenzhen
- - Tianjin
- - Hong Kong
- - Dongguan
- - Hangzhou
- - Chengdu
- - Haerbin
-
-More cities will be added in a future release.  
+- 100 countries
+- 4711 cities
 
 > All data provided by the [World Air Quality Index Project][3] and additional info about the selected city's Environmental Protection Agency available via web link from app.
 
 ## Screenshots
 ![][image-4]
 ![][image-5]
+
+## Changelog
+See the [changelog][5]
 
 ## Contact
 If you have any enquiries about the app please [get in touch][4].
@@ -36,6 +29,7 @@ If you have any enquiries about the app please [get in touch][4].
 [2]:	https://itunes.apple.com/cn/app/pollution-monitor/id1197195842?l=zh&mt=12
 [3]:	http://waqi.info/
 [4]:	mailto:support@seagullsystems.com
+[5]:	pollution%20monitor%20changelog
 
 [image-1]:	images/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg
 [image-2]:	images/Download_on_the_App_Store_Badge_CN_135x40.svg

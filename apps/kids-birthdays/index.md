@@ -39,7 +39,7 @@ You have the option to save all birthdays to iCloud - enter the data once and it
 ## Contact
 If you have any enquiries about the app please [get in touch][4].
 
-[1]:	https://itunes.apple.com/gb/app/pollution-monitor/id1197195842?mt=12
+[1]:	https://itunes.apple.com/gb/app/kids-birthdays/id1530995989?mt=12
 [4]:	mailto:support@seagullsystems.com
 
 [image-1]:	images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg

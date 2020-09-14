@@ -29,14 +29,14 @@ The names, ages and dates you enter into the app are for your eyes only.  Your d
 You have the option to save all birthdays to iCloud - enter the data once and it will be available on all your devices.  Lose or replace your iPhone, the data will still be there.
 
 
-## Screenshots
+## SCREENSHOTS
 
 | **Overview** | **Parents**  | **Kids** | ** Birthdays **
 | --- | --- | --- | --- | 
 | ![][image-4] | ![][image-5] | ![][image-6] | ![][image-7] | 
 
 
-## Contact
+## CONTACT
 If you have any enquiries about the app please [get in touch][4].
 
 [1]:	https://itunes.apple.com/gb/app/kids-birthdays/id1530995989?mt=12

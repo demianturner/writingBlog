@@ -8,9 +8,7 @@ title: Kids Birthdays for the iOS
 ## About the App
 ![][image-3]
 
-Never forget a birthday of your friends’ kids.  
-
-Despite being a very simple idea, there doesn’t appear to be another app like this on the AppStore.
+**Never forget your friends’ kids' birthdays.** 
 
 There are two main use cases for the Kids Birthdays app:
 

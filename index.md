@@ -9,7 +9,7 @@ layout: homepage
 | [![][image-7]][4]   | [![][image-1]][1]   | [![][image-2]][2]  | [![][image-3]][3]| 
 | Lifestyle | Finance | Environment | Productivity | 
 | Platform: iOS | Platform: macOS | Platform: macOS  | Platform: macOS  |
-| Release date: Sep 14, 2020 | Release date: Feb 6, 2018 | Release date: Jan 20, 2017  | Release date: Dec 3rd, 2010 |
+| Release: Sep 14, 2020 | Release: Feb 6, 2018 | Release: Jan 20, 2017  | Release: Dec 3rd, 2010 |
 
  <br /> <br />
 

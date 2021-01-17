@@ -1,5 +1,34 @@
 # Crypto Calculator Changelog
 
+## 1.2.0 (Jan 17, 2021)
+
+Improvements
+- Added Coin Gecko as a data provider for BTC price feed
+- Added support for Apple Silicon hardware
+
+Bugfixes 
+- disabled rounding of news images
+
+## 1.1.3 (Aug 12, 2020)
+
+Improvements
+- Increased BTC price watcher update interval time to 15 mins to address API limits
+- BTC price watcher disabled by default
+
+Bugfixes 
+- 'last updated' time now shows correct value
+  
+
+## 1.1.2 (Aug 5, 2020)
+Increased minimum required macOS version to 10.14
+
+Improvements
+- Added live BTC/USD price in status bar, updates every 5 mins (can be disabled in Prefs)
+- UI tweaks
+
+Bugfixes 
+- Fixed onboarding issues, now works for macOS 10.14  
+
 ## 1.1.1 (May 26, 2020)
 Increased minimum required macOS version to 10.13
 

@@ -37,8 +37,9 @@ The developer wishes to express thanks for the availability of the following lib
 ### Cryptocurrency Icons
 [https://github.com/cjdowner/cryptocurrency-icons][3]
 
-### CryptoCompare Price API
-[https://www.cryptocompare.com/api/][4]
+### Data APIs
+- [https://www.cryptocompare.com/api/][4]
+- Powered by [CoinGecko API][16]
 
 ### Github
 - [https://github.com/aguilarpgc/timelapse][15]
@@ -67,11 +68,12 @@ If you have any enquiries or requests please [get in touch][11].
 [8]:	https://github.com/shpakovski/MASShortcut
 [9]:	https://github.com/DaveWoodCom/XCGLogger
 [10]:	Crypto%20Tools%20Changelog
-[11]:	mailto:support@seagullsystems.com
+[11]:	mailto:crypto-tools+demianturner@gmail.com
 [12]:  https://github.com/sindresorhus/LaunchAtLogin
 [13]:  https://github.com/demianturner/DTOnboarding
 [14]:  https://github.com/kean/Nuke
 [15]:  https://github.com/aguilarpgc/timelapse
+[16]:  https://www.coingecko.com/en
 
 [image-1]:	images/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg
 [image-2]:	images/Download_on_the_Mac_App_Store_Badge_US-UK_165x40.svg

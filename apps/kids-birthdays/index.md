@@ -6,7 +6,7 @@ title: Kids Birthdays for the iOS
 [![][image-1]][1] 
 
 ## About the App
-![][image-3]
+![][image-2]
 
 **Never forget your friends’ kids' birthdays.** 
 
@@ -16,7 +16,7 @@ There are two main use cases for the Kids Birthdays app:
 If it hasn’t already happened, soon all your friends with have kids.  Before no time you won’t even be able to remember all the kids’ names, let alone how old they are.  With Kids Birthdays, you will come off looking like a whiz when you can name every kid in the family. And know their age!
 
 
-## PARENTS: HELP YOUR KIDS PARTY IN STYLE 
+## PARENTS: HELP YOUR KIDS PARTY IN STYLE
 Want your kid to get invited to more birthday parties?  The first step is keeping track of their friends’ birthdays.  Make sure you get them a nice present on time - Kids Birthdays will make it a breeze.
 
 ## BIRTHDAY TIMELINE
@@ -37,14 +37,15 @@ You have the option to save all birthdays to iCloud - enter the data once and it
 
 
 ## CONTACT
-If you have any enquiries about the app please [get in touch][4].
+If you have any enquiries about the app please [get in touch][2].
 
-[1]:	https://itunes.apple.com/gb/app/kids-birthdays/id1530995989?mt=12
-[4]:	mailto:support@seagullsystems.com
-
-[image-1]:	images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg
-[image-3]:	images/kids-birthdays-logo-256.png
 [image-4]:	images/1. Overview@1x.png
 [image-5]:	images/2. Parents@1x.png
 [image-6]:	images/3. Kids@1x.png
 [image-7]:	images/4. Kids' Birthdays@1x.png
+
+[1]:	https://itunes.apple.com/gb/app/kids-birthdays/id1530995989?mt=12
+[2]:	mailto:demianturner+kidsbirthdays@gmail.com
+
+[image-1]:	images/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg
+[image-2]:	images/kids-birthdays-logo-256.png

@@ -1,15 +1,15 @@
 version: 2
 updates:
   - package-ecosystem: "bundler"
-    directory: "/"                  # adjust if Gemfile is nested
+    directory: "/"  # Assuming your Gemfile is in the root
     schedule:
-      interval: "weekly"            # or "daily" / "monthly"
-      day: "monday"                 # optional: spread PRs out
+      interval: "weekly"
+      day: "monday"
     allow:
-      - dependency-type: "direct"   # only update top-level gems
+      - dependency-type: "direct"
     ignore:
-      - dependency-name: "nokogiri" # remove or adjust if needed
-        versions: ["<1.15.0"]       # avoid spammy updates
+      - dependency-name: "nokogiri"
+        versions: ["<1.15.0"]
     commit-message:
       prefix: "deps"
-    open-pull-requests-limit: 3     # avoid CI clutter
+    open-pull-requests-limit: 3

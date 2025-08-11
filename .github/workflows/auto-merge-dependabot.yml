@@ -5,6 +5,10 @@ on:
     types:
       - labeled
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   auto-merge:
     if: github.actor == 'dependabot[bot]'
